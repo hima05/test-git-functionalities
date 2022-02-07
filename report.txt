@@ -8,3 +8,5 @@ git Access token test
 soft reset 
 
 connect back
+
+mixed reset_del
