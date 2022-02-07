@@ -17,3 +17,6 @@ Clean commit
 new matter for indexing
 
 new matter after indexing
+
+------------
+dirty
